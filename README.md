@@ -26,9 +26,8 @@ An AI-powered Heart Disease Prediction web application built using **Python, Str
 pip install -r requirements.txt
 streamlit run app.py
 ```
-## 📸 Project Screenshot
 
-![Heart Disease Prediction System](home.jpeg)
+
 
 ## 👨‍💻 Author
 
